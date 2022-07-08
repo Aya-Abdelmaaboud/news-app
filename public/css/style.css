@@ -1,0 +1,23 @@
+img {
+    height: 160px;
+}
+
+h5, p {
+    height: 100px;
+    overflow: hidden;
+}
+
+.logo {
+    height: 40px;
+}
+
+.footer{
+    height: 50px;
+    padding: 10px;
+}
+
+.not-found{
+    color: red;
+    text-align: center;
+    padding: 50px;
+}
